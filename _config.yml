@@ -1,0 +1,28 @@
+name: Versaille
+favicon: null
+layout_spectrum: 0.83058395027183
+typography_spectrum: 0.48480095039121807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9378945294301957
+  lightness: 0.13626970164477825
+  saturation: 0.043624196434393525
+  rhythmicContrast: 0.31892692763358355
+purpose: []
