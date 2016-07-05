@@ -1,12 +1,7 @@
+name: Versaille
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.234767
+typography_spectrum: 0.5089605
 collections:
   - index:
       path: /
@@ -19,22 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+title: Versaille
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.749104
-  brandStrength: 0.5071685
-  lightness: 0.5017921
   brandColors:
     - '#265161'
     - '#10232A'
     - '#FFFFFF'
     - '#B0BEBF'
     - '#687B81'
+  brandStrength: 0.5071685
+  lightness: 0.5017921
+  saturation: 0.749104
   rhythmicContrast: 0.890681
-typography_spectrum: 0.5089605
-layout_spectrum: 0.234767
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Versaille
+purpose: []
