@@ -1,41 +1,41 @@
-name: Versaille
-favicon: null
-layout_spectrum: 0.234767
-typography_spectrum: 0.5089605
+title: Versaille
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Versaille
+color:
+  saturation: 0.749104
+  brandStrength: 0.5071685
+  lightness: 0.5017921
+  brandColors:
+    - '#FFFFFF'
+    - '#D4D4D4'
+    - '#1D4578'
+    - '#4A6A90'
+    - '#97AAC2'
+  rhythmicContrast: 0.890681
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Versaille
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#265161'
-    - '#10232A'
-    - '#FFFFFF'
-    - '#B0BEBF'
-    - '#687B81'
-  brandStrength: 0.5071685
-  lightness: 0.5017921
-  saturation: 0.749104
-  rhythmicContrast: 0.890681
-purpose: []
+typography_spectrum: 0.5089605
+layout_spectrum: 0.234767
